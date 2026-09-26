@@ -17,13 +17,23 @@ A quiet little browser for macOS that gets out of your way, then does your chore
 
 **🔎 Bangs, everywhere.** Type `!w einstein` or `!gh swift` and skip the search page. Works with any engine you like.
 
+<img src="media/bangs.gif" width="640" alt="">
+
 **🎭 Be three people at once.** `@Work gmail.com` opens Gmail signed in as Work, right next to Personal. No more logging out, no more incognito tricks.
+
+<img src="media/profiles.gif" width="640" alt="">
 
 **🤖 Ask the page.** The agent reads the page, clicks and types for you, then answers with the exact passage it found. Hit **⌘K** and ask.
 
+<img src="media/agent.gif" width="640" alt="">
+
 **💊 The pill.** Click it on a new tab for widgets, bookmarks, history, downloads and settings. That's the whole menu.
 
+<img src="media/pill.gif" width="640" alt="">
+
 **🙈 The bar hides.** While you read, the toolbar tucks itself away. Point at your tabs, or press **⌘L**, and it comes back.
+
+<img src="media/bar.gif" width="640" alt="">
 
 **🛡 Ads, blocked.** 100,000+ ad and tracker domains, gone before they load.
 
