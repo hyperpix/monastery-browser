@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" width="120" alt="Monastery logo">
+  <img src="media/icon.png" width="120" alt="Monastery logo">
 </p>
 
 <h1 align="center">Monastery</h1>
