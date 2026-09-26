@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Browser logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Monastery logo">
   <rect width="800" height="800" rx="176" fill="#B3F23C"/>
-  <path fill="#000"
-        d="M128 192 H260 V325 L400 192 H535 V325 L672 192 V608 H540 V475 L400 608 H265 V475 L128 608 Z"/>
+  <path fill="none" stroke="#000" stroke-width="184.9" stroke-linecap="round" stroke-linejoin="round"
+        d="M293.3 413.3 L173.9 626.7 M404.3 626.7 L515.2 413.3 L626.1 626.7"/>
 </svg>
